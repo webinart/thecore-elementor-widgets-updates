@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0-beta.98",
-  "package": "https://raw.githubusercontent.com/webinart/thecore-elementor-widgets-updates/ac01307e24409bfbfb1781314f84b15cfef45f35/packages/thecore-elementor-widgets-0.2.0-beta.98.zip",
+  "version": "0.2.0-beta.99",
+  "package": "https://raw.githubusercontent.com/webinart/thecore-elementor-widgets-updates/b6f126e292782b526dc3a72e1fd479abae28f0f4/packages/thecore-elementor-widgets-0.2.0-beta.99.zip",
   "details_url": "https://github.com/webinart/thecore-elementor-widgets-updates/tree/plugin-updates",
   "requires_php": "8.1",
   "requires_wp": "6.6"
